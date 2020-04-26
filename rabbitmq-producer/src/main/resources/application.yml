@@ -1,0 +1,17 @@
+rabbitmq:
+  queueName: test.example
+  template:
+    exchange: test-example
+    routing-key: test-example
+
+
+spring:
+  rabbitmq:
+    password: password
+
+
+server:
+  port: 9090
+
+
+
