@@ -1,1 +1,1 @@
-# spring-rabbitmq-swagger
+# spring-rabbitmq
